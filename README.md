@@ -133,5 +133,4 @@ don’t spend your time on repetitive tasks. Set them up and forget about them. 
 22. Don’t Ask Questions… Ask For Help.
  -->
 this website is a way to document and highlight my new knowledge.
-## Python 401:
- 
+## Code 401:
